@@ -24,4 +24,5 @@ const SelectedCard = ({player,removePlayer}) => {
     );
 };
 
+//hello 
 export default SelectedCard;
